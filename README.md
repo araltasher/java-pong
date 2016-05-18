@@ -6,4 +6,4 @@ Simple Pong game I created for my Intro to Software 2 (*CSE 1002*) class. It use
 
 You'll need to include the StdDraw class in your repository.
 
-<img src="https://raw.githubusercontent.com/araltasher/heighway-dragon/master/heighwayDragon.gif" alt="dragon-demo" width="250"/>
+<img src="https://raw.githubusercontent.com/araltasher/java-pong/master/Pong.gif" alt="dragon-demo" width="250"/>
